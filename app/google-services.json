@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "429223837831",
+    "project_id": "cadastrodebebidas-b8f61",
+    "storage_bucket": "cadastrodebebidas-b8f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429223837831:android:0126ba72425b9070d37822",
+        "android_client_info": {
+          "package_name": "com.example.cadastrodebebidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429223837831-63kkqdud4smrho71srgp1i0am6snvqon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZYZui6UEaX2_7qCUrkf1MsEk3euRDqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429223837831-63kkqdud4smrho71srgp1i0am6snvqon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
